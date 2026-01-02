@@ -1,0 +1,297 @@
+BusinessEntityID,NationalIDNumber,LoginID,JobTitle,BirthDate,Gender,HireDate,VacationHours,SickLeaveHours,Name1,GroupName,Name2,StartTime,EndTime,StartDate,EndDate,ModifiedDate
+1,295847284,adventure-works\ken0,Chief Executive Officer,02/03/1963,M,15/02/2003,99,69,Executive,Executive General and Administration,Day,00:00.0,00:00.0,15/02/2003,NULL,00:00.0
+2,245797967,adventure-works\terri0,Vice President of Engineering,01/09/1965,F,03/03/2002,1,20,Engineering,Research and Development,Day,00:00.0,00:00.0,03/03/2002,NULL,00:00.0
+3,509647174,adventure-works\roberto0,Engineering Manager,13/12/1968,M,12/12/2001,2,21,Engineering,Research and Development,Day,00:00.0,00:00.0,12/12/2001,NULL,00:00.0
+4,112457891,adventure-works\rob0,Senior Tool Designer,23/01/1969,M,05/01/2002,48,80,Engineering,Research and Development,Day,00:00.0,00:00.0,05/01/2002,30/06/2004,00:00.0
+4,112457891,adventure-works\rob0,Senior Tool Designer,23/01/1969,M,05/01/2002,48,80,Tool Design,Research and Development,Day,00:00.0,00:00.0,01/07/2004,NULL,00:00.0
+5,695256908,adventure-works\gail0,Design Engineer,29/10/1946,F,06/02/2002,5,22,Engineering,Research and Development,Day,00:00.0,00:00.0,06/02/2002,NULL,00:00.0
+6,998320692,adventure-works\jossef0,Design Engineer,11/04/1953,M,24/02/2002,6,23,Engineering,Research and Development,Day,00:00.0,00:00.0,24/02/2002,NULL,00:00.0
+7,134969118,adventure-works\dylan0,Research and Development Manager,27/03/1981,M,12/03/2003,61,50,Research and Development,Research and Development,Day,00:00.0,00:00.0,12/03/2003,NULL,00:00.0
+8,811994146,adventure-works\diane1,Research and Development Engineer,06/07/1980,F,30/01/2003,62,51,Research and Development,Research and Development,Day,00:00.0,00:00.0,30/01/2003,NULL,00:00.0
+9,658797903,adventure-works\gigi0,Research and Development Engineer,21/02/1973,F,17/02/2003,63,51,Research and Development,Research and Development,Day,00:00.0,00:00.0,17/02/2003,NULL,00:00.0
+10,879342154,adventure-works\michael6,Research and Development Manager,01/01/1979,M,04/06/2003,16,64,Research and Development,Research and Development,Day,00:00.0,00:00.0,04/06/2003,NULL,00:00.0
+11,974026903,adventure-works\ovidiu0,Senior Tool Designer,18/02/1972,M,05/01/2005,7,23,Tool Design,Research and Development,Day,00:00.0,00:00.0,05/01/2005,NULL,00:00.0
+12,480168528,adventure-works\thierry0,Tool Designer,29/08/1953,M,11/01/2002,9,24,Tool Design,Research and Development,Day,00:00.0,00:00.0,11/01/2002,NULL,00:00.0
+13,486228782,adventure-works\janice0,Tool Designer,29/06/1983,F,23/01/2005,8,24,Tool Design,Research and Development,Day,00:00.0,00:00.0,23/01/2005,NULL,00:00.0
+14,42487730,adventure-works\michael8,Senior Design Engineer,17/07/1973,M,30/01/2005,3,21,Engineering,Research and Development,Day,00:00.0,00:00.0,30/01/2005,NULL,00:00.0
+15,56920285,adventure-works\sharon0,Design Engineer,03/06/1955,F,18/02/2005,4,22,Engineering,Research and Development,Day,00:00.0,00:00.0,18/02/2005,NULL,00:00.0
+16,24756624,adventure-works\david0,Marketing Manager,19/04/1969,M,20/01/2002,40,40,Purchasing,Inventory Management,Day,00:00.0,00:00.0,20/01/2002,15/08/2003,00:00.0
+16,24756624,adventure-works\david0,Marketing Manager,19/04/1969,M,20/01/2002,40,40,Marketing,Sales and Marketing,Day,00:00.0,00:00.0,16/08/2003,NULL,00:00.0
+17,253022876,adventure-works\kevin0,Marketing Assistant,03/06/1981,M,26/02/2001,42,41,Marketing,Sales and Marketing,Day,00:00.0,00:00.0,26/02/2001,NULL,00:00.0
+18,222969461,adventure-works\john5,Marketing Specialist,06/04/1972,M,10/03/2005,48,44,Marketing,Sales and Marketing,Day,00:00.0,00:00.0,10/03/2005,NULL,00:00.0
+19,52541318,adventure-works\mary2,Marketing Assistant,01/03/1972,F,17/03/2005,43,41,Marketing,Sales and Marketing,Day,00:00.0,00:00.0,17/03/2005,NULL,00:00.0
+20,323403273,adventure-works\wanida0,Marketing Assistant,17/04/1969,F,07/02/2005,41,40,Marketing,Sales and Marketing,Day,00:00.0,00:00.0,07/02/2005,NULL,00:00.0
+21,243322160,adventure-works\terry0,Marketing Specialist,07/03/1980,M,03/04/2003,44,42,Marketing,Sales and Marketing,Day,00:00.0,00:00.0,03/04/2003,NULL,00:00.0
+22,95958330,adventure-works\sariya0,Marketing Specialist,21/06/1981,M,13/01/2003,45,42,Marketing,Sales and Marketing,Day,00:00.0,00:00.0,13/01/2003,NULL,00:00.0
+23,767955365,adventure-works\mary0,Marketing Specialist,14/10/1956,F,13/02/2003,46,43,Marketing,Sales and Marketing,Day,00:00.0,00:00.0,13/02/2003,NULL,00:00.0
+24,72636981,adventure-works\jill0,Marketing Specialist,19/07/1973,F,19/02/2003,47,43,Marketing,Sales and Marketing,Day,00:00.0,00:00.0,19/02/2003,NULL,00:00.0
+25,519899904,adventure-works\james1,Vice President of Production,07/02/1977,M,07/03/2003,64,52,Production,Manufacturing,Day,00:00.0,00:00.0,07/03/2003,NULL,00:00.0
+26,277173473,adventure-works\peter0,Production Control Manager,04/12/1976,M,02/01/2003,43,41,Production Control,Manufacturing,Day,00:00.0,00:00.0,02/01/2003,NULL,00:00.0
+27,446466105,adventure-works\jo0,Production Supervisor - WC60,09/11/1950,F,30/03/2002,80,60,Production,Manufacturing,Day,00:00.0,00:00.0,30/03/2002,NULL,00:00.0
+28,14417807,adventure-works\guy1,Production Technician - WC60,15/05/1976,M,31/07/2000,21,30,Production,Manufacturing,Day,00:00.0,00:00.0,31/07/2000,NULL,00:00.0
+29,948320468,adventure-works\mark1,Production Technician - WC60,26/10/1973,M,24/02/2003,19,29,Production,Manufacturing,Day,00:00.0,00:00.0,24/02/2003,NULL,00:00.0
+30,410742000,adventure-works\britta0,Production Technician - WC60,30/10/1983,F,02/03/2003,14,27,Production,Manufacturing,Day,00:00.0,00:00.0,02/03/2003,NULL,00:00.0
+31,750246141,adventure-works\margie0,Production Technician - WC60,20/06/1980,F,05/02/2003,18,29,Production,Manufacturing,Day,00:00.0,00:00.0,05/02/2003,NULL,00:00.0
+32,330211482,adventure-works\rebecca0,Production Technician - WC60,11/08/1971,F,30/01/2003,23,31,Production,Manufacturing,Day,00:00.0,00:00.0,30/01/2003,NULL,00:00.0
+33,801758002,adventure-works\annik0,Production Technician - WC60,27/01/1971,M,18/01/2003,17,28,Production,Manufacturing,Day,00:00.0,00:00.0,18/01/2003,NULL,00:00.0
+34,754372876,adventure-works\suchitra0,Production Technician - WC60,11/07/1981,F,20/03/2003,15,27,Production,Manufacturing,Day,00:00.0,00:00.0,20/03/2003,NULL,00:00.0
+35,999440576,adventure-works\brandon0,Production Technician - WC60,11/02/1971,M,12/03/2003,22,31,Production,Manufacturing,Day,00:00.0,00:00.0,12/03/2003,NULL,00:00.0
+36,788456780,adventure-works\jose0,Production Technician - WC60,01/09/1978,M,14/03/2003,20,30,Production,Manufacturing,Day,00:00.0,00:00.0,14/03/2003,NULL,00:00.0
+37,442121106,adventure-works\chris2,Production Technician - WC60,07/09/1980,M,08/04/2003,16,28,Production,Manufacturing,Day,00:00.0,00:00.0,08/04/2003,NULL,00:00.0
+38,6298838,adventure-works\kim1,Production Technician - WC60,14/01/1961,F,17/02/2004,24,32,Production,Manufacturing,Day,00:00.0,00:00.0,17/02/2004,NULL,00:00.0
+39,461786517,adventure-works\ed0,Production Technician - WC60,12/10/1965,M,08/03/2004,25,32,Production,Manufacturing,Day,00:00.0,00:00.0,08/03/2004,NULL,00:00.0
+40,309738752,adventure-works\jolynn0,Production Supervisor - WC60,16/02/1950,F,26/01/2002,82,61,Production,Manufacturing,Night,00:00.0,00:00.0,26/01/2002,NULL,00:00.0
+41,458159238,adventure-works\bryan0,Production Technician - WC60,28/09/1967,M,22/02/2003,35,37,Production,Manufacturing,Night,00:00.0,00:00.0,22/02/2003,NULL,00:00.0
+42,339712426,adventure-works\james0,Production Technician - WC60,26/08/1978,M,28/01/2003,39,39,Production,Manufacturing,Night,00:00.0,00:00.0,28/01/2003,NULL,00:00.0
+43,693325305,adventure-works\nancy0,Production Technician - WC60,21/12/1982,F,03/02/2003,34,37,Production,Manufacturing,Night,00:00.0,00:00.0,03/02/2003,NULL,00:00.0
+44,276751903,adventure-works\simon0,Production Technician - WC60,17/06/1984,M,09/01/2003,38,39,Production,Manufacturing,Night,00:00.0,00:00.0,09/01/2003,NULL,00:00.0
+45,500412746,adventure-works\thomas0,Production Technician - WC60,11/02/1980,M,30/03/2003,37,38,Production,Manufacturing,Night,00:00.0,00:00.0,30/03/2003,NULL,00:00.0
+46,66073987,adventure-works\eugene1,Production Technician - WC60,13/03/1970,M,12/03/2003,36,38,Production,Manufacturing,Night,00:00.0,00:00.0,12/03/2003,NULL,00:00.0
+47,33237992,adventure-works\andrew0,Production Supervisor - WC10,08/10/1982,M,26/03/2003,65,52,Production,Manufacturing,Day,00:00.0,00:00.0,26/03/2003,NULL,00:00.0
+48,690627818,adventure-works\ruth0,Production Technician - WC10,06/07/1950,F,06/02/2002,83,61,Production,Manufacturing,Day,00:00.0,00:00.0,06/02/2002,NULL,00:00.0
+49,912265825,adventure-works\barry0,Production Technician - WC10,27/04/1950,M,07/02/2002,88,64,Production,Manufacturing,Day,00:00.0,00:00.0,07/02/2002,NULL,00:00.0
+50,844973625,adventure-works\sidney0,Production Technician - WC10,01/10/1950,M,05/03/2002,84,62,Production,Manufacturing,Day,00:00.0,00:00.0,05/03/2002,NULL,00:00.0
+51,132674823,adventure-works\jeffrey0,Production Technician - WC10,12/08/1950,M,23/03/2002,85,62,Production,Manufacturing,Day,00:00.0,00:00.0,23/03/2002,NULL,00:00.0
+52,565090917,adventure-works\doris0,Production Technician - WC10,06/05/1950,F,11/04/2002,86,63,Production,Manufacturing,Day,00:00.0,00:00.0,11/04/2002,NULL,00:00.0
+53,9659517,adventure-works\diane0,Production Technician - WC10,30/04/1950,F,29/04/2002,87,63,Production,Manufacturing,Day,00:00.0,00:00.0,29/04/2002,NULL,00:00.0
+54,109272464,adventure-works\bonnie0,Production Technician - WC10,11/10/1980,F,02/02/2004,89,64,Production,Manufacturing,Day,00:00.0,00:00.0,02/02/2004,NULL,00:00.0
+55,233069302,adventure-works\taylor0,Production Supervisor - WC50,03/05/1950,M,11/03/2002,79,59,Production,Manufacturing,Night,00:00.0,00:00.0,11/03/2002,NULL,00:00.0
+56,652535724,adventure-works\denise0,Production Technician - WC50,07/08/1982,F,09/03/2003,9,24,Production,Manufacturing,Night,00:00.0,00:00.0,09/03/2003,NULL,00:00.0
+57,10708100,adventure-works\frank1,Production Technician - WC50,24/08/1965,M,27/03/2003,10,25,Production,Manufacturing,Night,00:00.0,00:00.0,27/03/2003,NULL,00:00.0
+58,571658797,adventure-works\kendall0,Production Technician - WC50,30/06/1980,M,06/01/2003,11,25,Production,Manufacturing,Night,00:00.0,00:00.0,06/01/2003,NULL,00:00.0
+59,843479922,adventure-works\bob0,Production Technician - WC50,16/09/1973,M,25/01/2003,12,26,Production,Manufacturing,Night,00:00.0,00:00.0,25/01/2003,NULL,00:00.0
+60,827686041,adventure-works\pete0,Production Technician - WC50,07/03/1971,M,12/02/2003,13,26,Production,Manufacturing,Night,00:00.0,00:00.0,12/02/2003,NULL,00:00.0
+61,92096924,adventure-works\diane2,Production Technician - WC50,10/09/1983,F,19/02/2003,8,24,Production,Manufacturing,Night,00:00.0,00:00.0,19/02/2003,NULL,00:00.0
+62,494170342,adventure-works\john0,Production Supervisor - WC60,08/09/1950,M,18/04/2002,81,60,Production,Manufacturing,Evening,00:00.0,00:00.0,18/04/2002,NULL,00:00.0
+63,414476027,adventure-works\maciej0,Production Technician - WC60,02/03/1949,M,01/03/2004,30,35,Production,Manufacturing,Evening,00:00.0,00:00.0,01/03/2004,NULL,00:00.0
+64,582347317,adventure-works\michael7,Production Technician - WC60,07/10/1967,M,26/03/2004,26,33,Production,Manufacturing,Evening,00:00.0,00:00.0,26/03/2004,NULL,00:00.0
+65,8066363,adventure-works\randy0,Production Technician - WC60,29/05/1964,M,26/03/2004,29,34,Production,Manufacturing,Evening,00:00.0,00:00.0,26/03/2004,NULL,00:00.0
+66,834186596,adventure-works\karan0,Production Technician - WC60,07/04/1964,M,23/01/2004,28,34,Production,Manufacturing,Evening,00:00.0,00:00.0,23/01/2004,NULL,00:00.0
+67,63179277,adventure-works\jay0,Production Technician - WC60,14/03/1970,M,06/04/2003,32,36,Production,Manufacturing,Evening,00:00.0,00:00.0,06/04/2003,NULL,00:00.0
+68,537092325,adventure-works\charles0,Production Technician - WC60,03/10/1965,M,04/01/2004,27,33,Production,Manufacturing,Evening,00:00.0,00:00.0,04/01/2004,NULL,00:00.0
+69,752513276,adventure-works\steve0,Production Technician - WC60,07/05/1985,M,19/03/2003,31,35,Production,Manufacturing,Evening,00:00.0,00:00.0,19/03/2003,NULL,00:00.0
+70,36151748,adventure-works\david2,Production Technician - WC60,30/01/1979,M,16/01/2003,33,36,Production,Manufacturing,Evening,00:00.0,00:00.0,16/01/2003,NULL,00:00.0
+71,578935259,adventure-works\michael3,Production Supervisor - WC30,02/03/1983,M,19/03/2003,70,55,Production,Manufacturing,Night,00:00.0,00:00.0,19/03/2003,NULL,00:00.0
+72,443968955,adventure-works\steven0,Production Technician - WC30,15/06/1971,M,02/01/2003,41,40,Production,Manufacturing,Night,00:00.0,00:00.0,02/01/2003,NULL,00:00.0
+73,138280935,adventure-works\carole0,Production Technician - WC30,19/11/1977,F,20/01/2003,42,41,Production,Manufacturing,Night,00:00.0,00:00.0,20/01/2003,NULL,00:00.0
+74,420023788,adventure-works\bjorn0,Production Technician - WC30,08/12/1983,M,08/02/2003,43,41,Production,Manufacturing,Night,00:00.0,00:00.0,08/02/2003,NULL,00:00.0
+75,363996959,adventure-works\michiko0,Production Technician - WC30,28/07/1976,M,27/02/2003,44,42,Production,Manufacturing,Night,00:00.0,00:00.0,27/02/2003,NULL,00:00.0
+76,227319668,adventure-works\carol0,Production Technician - WC30,18/11/1982,F,16/03/2003,45,42,Production,Manufacturing,Night,00:00.0,00:00.0,16/03/2003,NULL,00:00.0
+77,301435199,adventure-works\merav0,Production Technician - WC30,13/06/1977,F,04/04/2003,46,43,Production,Manufacturing,Night,00:00.0,00:00.0,04/04/2003,NULL,00:00.0
+78,370989364,adventure-works\reuben0,Production Supervisor - WC40,27/09/1981,M,16/01/2003,72,56,Production,Manufacturing,Evening,00:00.0,00:00.0,16/01/2003,NULL,00:00.0
+79,697712387,adventure-works\eric1,Production Technician - WC40,08/01/1961,M,25/02/2004,60,50,Production,Manufacturing,Evening,00:00.0,00:00.0,25/02/2004,NULL,00:00.0
+80,943170460,adventure-works\sandeep0,Production Technician - WC40,03/01/1965,M,18/02/2004,65,52,Production,Manufacturing,Evening,00:00.0,00:00.0,18/02/2004,NULL,00:00.0
+81,413787783,adventure-works\mihail0,Production Technician - WC40,09/04/1965,M,30/01/2004,64,52,Production,Manufacturing,Evening,00:00.0,00:00.0,30/01/2004,NULL,00:00.0
+82,58791499,adventure-works\jack1,Production Technician - WC40,30/09/1967,M,03/04/2004,62,51,Production,Manufacturing,Evening,00:00.0,00:00.0,03/04/2004,NULL,00:00.0
+83,988315686,adventure-works\patrick1,Production Technician - WC40,24/01/1968,M,15/03/2004,61,50,Production,Manufacturing,Evening,00:00.0,00:00.0,15/03/2004,NULL,00:00.0
+84,947029962,adventure-works\frank3,Production Technician - WC40,03/04/1946,M,08/03/2004,66,53,Production,Manufacturing,Evening,00:00.0,00:00.0,08/03/2004,NULL,00:00.0
+85,1662732,adventure-works\brian2,Production Technician - WC40,23/01/1965,M,12/01/2004,63,51,Production,Manufacturing,Evening,00:00.0,00:00.0,12/01/2004,NULL,00:00.0
+86,769680433,adventure-works\ryan0,Production Technician - WC40,15/07/1966,M,06/02/2003,59,49,Production,Manufacturing,Evening,00:00.0,00:00.0,06/02/2003,NULL,00:00.0
+87,7201901,adventure-works\cristian0,Production Supervisor - WC10,13/05/1978,M,23/01/2003,67,53,Production,Manufacturing,Night,00:00.0,00:00.0,23/01/2003,NULL,00:00.0
+88,294148271,adventure-works\betsy0,Production Technician - WC10,17/01/1961,F,19/01/2004,99,69,Production,Manufacturing,Night,00:00.0,00:00.0,19/01/2004,NULL,00:00.0
+89,90888098,adventure-works\patrick0,Production Technician - WC10,11/10/1980,M,04/03/2004,96,68,Production,Manufacturing,Night,00:00.0,00:00.0,04/03/2004,NULL,00:00.0
+90,82638150,adventure-works\danielle0,Production Technician - WC10,08/10/1980,F,23/03/2004,97,68,Production,Manufacturing,Night,00:00.0,00:00.0,23/03/2004,NULL,00:00.0
+91,390124815,adventure-works\kimberly0,Production Technician - WC10,14/10/1980,F,13/02/2004,95,67,Production,Manufacturing,Night,00:00.0,00:00.0,13/02/2004,NULL,00:00.0
+92,826454897,adventure-works\tom0,Production Technician - WC10,01/11/1980,M,10/04/2004,98,69,Production,Manufacturing,Night,00:00.0,00:00.0,10/04/2004,NULL,00:00.0
+93,778552911,adventure-works\kok-ho0,Production Supervisor - WC50,30/05/1974,M,28/01/2003,78,59,Production,Manufacturing,Evening,00:00.0,00:00.0,28/01/2003,NULL,00:00.0
+94,718299860,adventure-works\russell0,Production Technician - WC50,27/12/1966,M,13/01/2003,6,23,Production,Manufacturing,Evening,00:00.0,00:00.0,13/01/2003,NULL,00:00.0
+95,674171828,adventure-works\jim0,Production Technician - WC50,09/10/1980,M,20/01/2003,1,20,Production,Manufacturing,Evening,00:00.0,00:00.0,20/01/2003,NULL,00:00.0
+96,912141525,adventure-works\elizabeth0,Production Technician - WC50,26/02/1984,F,03/04/2003,5,22,Production,Manufacturing,Evening,00:00.0,00:00.0,03/04/2003,NULL,00:00.0
+97,370581729,adventure-works\mandar0,Production Technician - WC50,21/04/1980,M,14/03/2003,0,20,Production,Manufacturing,Evening,00:00.0,00:00.0,14/03/2003,NULL,00:00.0
+98,152085091,adventure-works\sameer0,Production Technician - WC50,27/07/1972,M,15/03/2003,4,22,Production,Manufacturing,Evening,00:00.0,00:00.0,15/03/2003,NULL,00:00.0
+99,431859843,adventure-works\nuan0,Production Technician - WC50,29/04/1973,M,07/02/2003,2,21,Production,Manufacturing,Evening,00:00.0,00:00.0,07/02/2003,NULL,00:00.0
+100,204035155,adventure-works\lolan0,Production Technician - WC50,25/02/1967,M,13/02/2003,7,23,Production,Manufacturing,Evening,00:00.0,00:00.0,13/02/2003,NULL,00:00.0
+101,153288994,adventure-works\houman0,Production Technician - WC50,30/09/1965,M,26/02/2003,3,21,Production,Manufacturing,Evening,00:00.0,00:00.0,26/02/2003,NULL,00:00.0
+102,360868122,adventure-works\zheng0,Production Supervisor - WC10,26/11/1977,M,04/01/2003,66,53,Production,Manufacturing,Evening,00:00.0,00:00.0,04/01/2003,NULL,00:00.0
+103,455563743,adventure-works\ebru0,Production Technician - WC10,23/10/1980,M,07/01/2004,93,66,Production,Manufacturing,Evening,00:00.0,00:00.0,07/01/2004,NULL,00:00.0
+104,717889520,adventure-works\mary1,Production Technician - WC10,20/10/1980,F,26/01/2004,94,67,Production,Manufacturing,Evening,00:00.0,00:00.0,26/01/2004,NULL,00:00.0
+105,801365500,adventure-works\kevin2,Production Technician - WC10,20/10/1980,M,26/01/2004,90,65,Production,Manufacturing,Evening,00:00.0,00:00.0,26/01/2004,NULL,00:00.0
+106,561196580,adventure-works\john4,Production Technician - WC10,29/10/1980,M,30/03/2004,92,66,Production,Manufacturing,Evening,00:00.0,00:00.0,30/03/2004,NULL,00:00.0
+107,393421437,adventure-works\christopher0,Production Technician - WC10,01/11/1980,M,11/03/2004,91,65,Production,Manufacturing,Evening,00:00.0,00:00.0,11/03/2004,NULL,00:00.0
+108,630184120,adventure-works\jinghao0,Production Supervisor - WC50,09/03/1983,M,09/01/2003,77,58,Production,Manufacturing,Day,00:00.0,00:00.0,09/01/2003,NULL,00:00.0
+109,113695504,adventure-works\alice0,Production Technician - WC50,27/02/1972,F,08/01/2003,95,67,Production,Manufacturing,Day,00:00.0,00:00.0,08/01/2003,NULL,00:00.0
+110,857651804,adventure-works\jun0,Production Technician - WC50,06/08/1973,M,15/01/2003,90,65,Production,Manufacturing,Day,00:00.0,00:00.0,15/01/2003,NULL,00:00.0
+111,415823523,adventure-works\suroor0,Production Technician - WC50,28/03/1972,M,18/01/2003,93,66,Production,Manufacturing,Day,00:00.0,00:00.0,18/01/2003,NULL,00:00.0
+112,981597097,adventure-works\john1,Production Technician - WC50,01/07/1972,M,02/02/2003,91,65,Production,Manufacturing,Day,00:00.0,00:00.0,02/02/2003,NULL,00:00.0
+113,54759846,adventure-works\linda0,Production Technician - WC50,17/08/1981,F,26/01/2003,96,68,Production,Manufacturing,Day,00:00.0,00:00.0,26/01/2003,NULL,00:00.0
+114,342607223,adventure-works\mindaugas0,Production Technician - WC50,07/06/1972,M,14/02/2003,97,68,Production,Manufacturing,Day,00:00.0,00:00.0,14/02/2003,NULL,00:00.0
+115,563680513,adventure-works\angela0,Production Technician - WC50,01/07/1985,F,21/02/2003,92,66,Production,Manufacturing,Day,00:00.0,00:00.0,21/02/2003,NULL,00:00.0
+116,398737566,adventure-works\michael2,Production Technician - WC50,03/06/1968,M,04/03/2003,98,69,Production,Manufacturing,Day,00:00.0,00:00.0,04/03/2003,NULL,00:00.0
+117,599942664,adventure-works\chad0,Production Technician - WC50,04/09/1984,M,22/03/2003,99,69,Production,Manufacturing,Day,00:00.0,00:00.0,22/03/2003,NULL,00:00.0
+118,222400012,adventure-works\don0,Production Technician - WC50,14/07/1965,M,17/03/2003,88,64,Production,Manufacturing,Day,00:00.0,00:00.0,17/03/2003,NULL,00:00.0
+119,334834274,adventure-works\michael4,Production Technician - WC50,17/07/1983,M,29/03/2003,94,67,Production,Manufacturing,Day,00:00.0,00:00.0,29/03/2003,NULL,00:00.0
+120,211789056,adventure-works\kitti0,Production Technician - WC50,07/07/1981,F,05/04/2003,89,64,Production,Manufacturing,Day,00:00.0,00:00.0,05/04/2003,NULL,00:00.0
+121,521265716,adventure-works\pilar0,Shipping and Receiving Supervisor,11/10/1966,M,03/02/2003,93,66,Shipping and Receiving,Inventory Management,Day,00:00.0,00:00.0,03/02/2003,NULL,00:00.0
+122,586486572,adventure-works\susan0,Stocker,20/03/1972,F,08/01/2003,97,68,Shipping and Receiving,Inventory Management,Evening,00:00.0,00:00.0,08/01/2003,NULL,00:00.0
+123,337752649,adventure-works\vamsi0,Shipping and Receiving Clerk,19/04/1971,M,08/01/2003,95,67,Shipping and Receiving,Inventory Management,Evening,00:00.0,00:00.0,08/01/2003,NULL,00:00.0
+124,420776180,adventure-works\kim0,Stocker,01/06/1978,F,27/01/2003,98,69,Shipping and Receiving,Inventory Management,Night,00:00.0,00:00.0,27/01/2003,NULL,00:00.0
+125,584205124,adventure-works\matthias0,Shipping and Receiving Clerk,13/12/1967,M,21/02/2003,94,67,Shipping and Receiving,Inventory Management,Day,00:00.0,00:00.0,21/02/2003,NULL,00:00.0
+126,652779496,adventure-works\jimmy0,Stocker,05/06/1979,M,30/03/2003,96,68,Shipping and Receiving,Inventory Management,Day,00:00.0,00:00.0,30/03/2003,NULL,00:00.0
+127,750905084,adventure-works\david4,Production Supervisor - WC40,02/08/1977,M,04/02/2003,73,56,Production,Manufacturing,Night,00:00.0,00:00.0,04/02/2003,NULL,00:00.0
+128,384162788,adventure-works\paul0,Production Technician - WC40,15/12/1974,M,05/01/2003,68,54,Production,Manufacturing,Night,00:00.0,00:00.0,05/01/2003,NULL,00:00.0
+129,502058701,adventure-works\gary0,Production Technician - WC40,17/06/1982,M,23/01/2003,69,54,Production,Manufacturing,Night,00:00.0,00:00.0,23/01/2003,NULL,00:00.0
+130,578953538,adventure-works\rob1,Production Technician - WC40,05/09/1967,M,17/03/2003,71,55,Production,Manufacturing,Night,00:00.0,00:00.0,17/03/2003,NULL,00:00.0
+131,273260055,adventure-works\baris0,Production Technician - WC40,07/11/1984,M,19/03/2003,72,56,Production,Manufacturing,Night,00:00.0,00:00.0,19/03/2003,NULL,00:00.0
+132,1300049,adventure-works\nicole0,Production Technician - WC40,10/05/1980,F,26/03/2003,67,53,Production,Manufacturing,Night,00:00.0,00:00.0,26/03/2003,NULL,00:00.0
+133,830150469,adventure-works\michael1,Production Technician - WC40,04/02/1985,M,11/02/2003,70,55,Production,Manufacturing,Night,00:00.0,00:00.0,11/02/2003,NULL,00:00.0
+134,45615666,adventure-works\eric0,Production Supervisor - WC20,20/02/1979,M,15/02/2003,40,40,Production,Manufacturing,Day,00:00.0,00:00.0,15/02/2003,NULL,00:00.0
+135,964089218,adventure-works\ivo0,Production Technician - WC20,04/02/1976,M,05/01/2003,9,24,Production,Manufacturing,Day,00:00.0,00:00.0,05/01/2003,NULL,00:00.0
+136,701156975,adventure-works\sylvester0,Production Technician - WC20,13/12/1964,M,12/01/2004,4,22,Production,Manufacturing,Day,00:00.0,00:00.0,12/01/2004,NULL,00:00.0
+137,63761469,adventure-works\anibal0,Production Technician - WC20,06/10/1968,F,27/03/2003,8,24,Production,Manufacturing,Day,00:00.0,00:00.0,27/03/2003,NULL,00:00.0
+138,25011600,adventure-works\samantha0,Production Technician - WC20,23/12/1981,F,08/03/2003,7,23,Production,Manufacturing,Day,00:00.0,00:00.0,08/03/2003,NULL,00:00.0
+139,113393530,adventure-works\hung-fu0,Production Technician - WC20,23/11/1965,M,07/02/2004,0,20,Production,Manufacturing,Day,00:00.0,00:00.0,07/02/2004,NULL,00:00.0
+140,339233463,adventure-works\prasanna0,Production Technician - WC20,01/06/1947,M,23/02/2004,5,22,Production,Manufacturing,Day,00:00.0,00:00.0,23/02/2004,NULL,00:00.0
+141,872923042,adventure-works\min0,Production Technician - WC20,11/10/1968,M,25/02/2004,1,20,Production,Manufacturing,Day,00:00.0,00:00.0,25/02/2004,NULL,00:00.0
+142,163347032,adventure-works\olinda0,Production Technician - WC20,05/05/1964,F,04/04/2004,3,21,Production,Manufacturing,Day,00:00.0,00:00.0,04/04/2004,NULL,00:00.0
+143,56772045,adventure-works\krishna0,Production Technician - WC20,06/10/1965,M,16/03/2004,2,21,Production,Manufacturing,Day,00:00.0,00:00.0,16/03/2004,NULL,00:00.0
+144,886023130,adventure-works\paul1,Production Technician - WC20,05/12/1984,M,18/02/2003,6,23,Production,Manufacturing,Day,00:00.0,00:00.0,18/02/2003,NULL,00:00.0
+145,386315192,adventure-works\cynthia0,Production Supervisor - WC30,19/09/1975,F,28/02/2003,69,54,Production,Manufacturing,Evening,00:00.0,00:00.0,28/02/2003,NULL,00:00.0
+146,160739235,adventure-works\jianshuo0,Production Technician - WC30,27/08/1977,M,08/01/2003,36,38,Production,Manufacturing,Evening,00:00.0,00:00.0,08/01/2003,NULL,00:00.0
+147,604664374,adventure-works\sandra0,Production Technician - WC30,06/12/1969,F,27/01/2003,37,38,Production,Manufacturing,Evening,00:00.0,00:00.0,27/01/2003,NULL,00:00.0
+148,733022683,adventure-works\jason0,Production Technician - WC30,08/01/1983,M,15/02/2003,38,39,Production,Manufacturing,Evening,00:00.0,00:00.0,15/02/2003,NULL,00:00.0
+149,764853868,adventure-works\andy0,Production Technician - WC30,20/11/1977,M,04/03/2003,39,39,Production,Manufacturing,Evening,00:00.0,00:00.0,04/03/2003,NULL,00:00.0
+150,878395493,adventure-works\michael5,Production Technician - WC30,19/10/1976,M,30/03/2003,35,37,Production,Manufacturing,Evening,00:00.0,00:00.0,30/03/2003,NULL,00:00.0
+151,993310268,adventure-works\rostislav0,Production Technician - WC30,15/10/1971,M,23/03/2003,40,40,Production,Manufacturing,Evening,00:00.0,00:00.0,23/03/2003,NULL,00:00.0
+152,319472946,adventure-works\yuhong0,Production Supervisor - WC20,08/05/1971,M,05/03/2003,41,40,Production,Manufacturing,Evening,00:00.0,00:00.0,05/03/2003,NULL,00:00.0
+153,568596888,adventure-works\hanying0,Production Technician - WC20,16/11/1968,M,17/01/2003,15,27,Production,Manufacturing,Evening,00:00.0,00:00.0,17/01/2003,NULL,00:00.0
+154,97728960,adventure-works\raymond0,Production Technician - WC20,02/04/1961,M,24/01/2003,10,25,Production,Manufacturing,Evening,00:00.0,00:00.0,24/01/2003,NULL,00:00.0
+155,212801092,adventure-works\fadi0,Production Technician - WC20,19/03/1983,M,05/02/2003,16,28,Production,Manufacturing,Evening,00:00.0,00:00.0,05/02/2003,NULL,00:00.0
+156,322160340,adventure-works\lane0,Production Technician - WC20,24/10/1968,M,12/02/2003,11,25,Production,Manufacturing,Evening,00:00.0,00:00.0,12/02/2003,NULL,00:00.0
+157,812797414,adventure-works\linda1,Production Technician - WC20,06/11/1971,F,07/03/2003,12,26,Production,Manufacturing,Evening,00:00.0,00:00.0,07/03/2003,NULL,00:00.0
+158,300946911,adventure-works\shelley0,Production Technician - WC20,08/01/1981,F,08/04/2003,14,27,Production,Manufacturing,Evening,00:00.0,00:00.0,08/04/2003,NULL,00:00.0
+159,404159499,adventure-works\terrence0,Production Technician - WC20,09/01/1979,M,20/03/2003,13,26,Production,Manufacturing,Evening,00:00.0,00:00.0,20/03/2003,NULL,00:00.0
+160,712885347,adventure-works\jeff0,Production Supervisor - WC45,16/02/1971,M,22/02/2003,74,57,Production,Manufacturing,Day,00:00.0,00:00.0,22/02/2003,NULL,00:00.0
+161,275962311,adventure-works\kirk0,Production Technician - WC45,10/03/1979,M,16/01/2003,74,57,Production,Manufacturing,Day,00:00.0,00:00.0,16/01/2003,NULL,00:00.0
+162,514829225,adventure-works\laura0,Production Technician - WC45,26/01/1975,F,04/02/2003,75,57,Production,Manufacturing,Day,00:00.0,00:00.0,04/02/2003,NULL,00:00.0
+163,377784364,adventure-works\alex0,Production Technician - WC45,14/05/1984,M,12/03/2003,77,58,Production,Manufacturing,Day,00:00.0,00:00.0,12/03/2003,NULL,00:00.0
+164,65848458,adventure-works\andrew1,Production Technician - WC45,26/10/1982,M,07/04/2003,73,56,Production,Manufacturing,Day,00:00.0,00:00.0,07/04/2003,NULL,00:00.0
+165,539490372,adventure-works\chris0,Production Technician - WC45,17/01/1983,M,23/02/2003,76,58,Production,Manufacturing,Day,00:00.0,00:00.0,23/02/2003,NULL,00:00.0
+166,60114406,adventure-works\jack0,Production Supervisor - WC30,23/07/1977,M,25/03/2003,68,54,Production,Manufacturing,Day,00:00.0,00:00.0,25/03/2003,NULL,00:00.0
+167,498138869,adventure-works\david1,Production Technician - WC30,03/12/1973,M,03/01/2003,25,32,Production,Manufacturing,Day,00:00.0,00:00.0,03/01/2003,NULL,00:00.0
+168,271438431,adventure-works\garrett0,Production Technician - WC30,26/09/1978,M,08/01/2003,34,37,Production,Manufacturing,Day,00:00.0,00:00.0,08/01/2003,NULL,00:00.0
+169,351069889,adventure-works\susan1,Production Technician - WC30,03/05/1977,F,15/01/2003,31,35,Production,Manufacturing,Day,00:00.0,00:00.0,15/01/2003,NULL,00:00.0
+170,476115505,adventure-works\george0,Production Technician - WC30,18/05/1971,M,22/01/2003,26,33,Production,Manufacturing,Day,00:00.0,00:00.0,22/01/2003,NULL,00:00.0
+171,746373306,adventure-works\david3,Production Technician - WC30,04/09/1975,M,03/02/2003,32,36,Production,Manufacturing,Day,00:00.0,00:00.0,03/02/2003,NULL,00:00.0
+172,364818297,adventure-works\marc0,Production Technician - WC30,24/11/1980,M,17/02/2003,22,31,Production,Manufacturing,Day,00:00.0,00:00.0,17/02/2003,NULL,00:00.0
+173,87268837,adventure-works\eugene0,Production Technician - WC30,15/08/1981,M,22/02/2003,33,36,Production,Manufacturing,Day,00:00.0,00:00.0,22/02/2003,NULL,00:00.0
+174,585408256,adventure-works\benjamin0,Production Technician - WC30,06/02/1980,M,28/02/2003,28,34,Production,Manufacturing,Day,00:00.0,00:00.0,28/02/2003,NULL,00:00.0
+175,259388196,adventure-works\reed0,Production Technician - WC30,09/02/1983,M,06/03/2003,23,31,Production,Manufacturing,Day,00:00.0,00:00.0,06/03/2003,NULL,00:00.0
+176,860123571,adventure-works\david7,Production Technician - WC30,25/10/1979,M,18/03/2003,29,34,Production,Manufacturing,Day,00:00.0,00:00.0,18/03/2003,NULL,00:00.0
+177,551346974,adventure-works\russell1,Production Technician - WC30,14/03/1976,M,25/03/2003,24,32,Production,Manufacturing,Day,00:00.0,00:00.0,25/03/2003,NULL,00:00.0
+178,568626529,adventure-works\john3,Production Technician - WC30,24/04/1976,M,04/04/2003,27,33,Production,Manufacturing,Day,00:00.0,00:00.0,04/04/2003,NULL,00:00.0
+179,587567941,adventure-works\jan0,Production Technician - WC30,16/12/1968,M,06/04/2003,30,35,Production,Manufacturing,Day,00:00.0,00:00.0,06/04/2003,NULL,00:00.0
+180,862951447,adventure-works\katie0,Production Supervisor - WC20,20/12/1978,F,24/03/2003,42,41,Production,Manufacturing,Night,00:00.0,00:00.0,24/03/2003,NULL,00:00.0
+181,545337468,adventure-works\michael0,Production Technician - WC20,19/12/1978,M,10/01/2003,20,30,Production,Manufacturing,Night,00:00.0,00:00.0,10/01/2003,NULL,00:00.0
+182,368920189,adventure-works\nitin0,Production Technician - WC20,01/01/1981,M,29/01/2003,21,30,Production,Manufacturing,Night,00:00.0,00:00.0,29/01/2003,NULL,00:00.0
+183,969985265,adventure-works\barbara0,Production Technician - WC20,02/08/1973,F,23/02/2003,17,28,Production,Manufacturing,Night,00:00.0,00:00.0,23/02/2003,NULL,00:00.0
+184,305522471,adventure-works\john2,Production Technician - WC20,06/05/1980,M,13/03/2003,18,29,Production,Manufacturing,Night,00:00.0,00:00.0,13/03/2003,NULL,00:00.0
+185,621932914,adventure-works\stefen0,Production Technician - WC20,21/01/1970,M,01/04/2003,19,29,Production,Manufacturing,Night,00:00.0,00:00.0,01/04/2003,NULL,00:00.0
+186,551834634,adventure-works\shane0,Production Supervisor - WC45,24/06/1984,M,12/03/2003,75,57,Production,Manufacturing,Evening,00:00.0,00:00.0,12/03/2003,NULL,00:00.0
+187,713403643,adventure-works\yvonne0,Production Technician - WC45,17/05/1983,F,10/01/2003,79,59,Production,Manufacturing,Evening,00:00.0,00:00.0,10/01/2003,NULL,00:00.0
+188,435234965,adventure-works\douglas0,Production Technician - WC45,26/12/1979,M,28/01/2003,80,60,Production,Manufacturing,Evening,00:00.0,00:00.0,28/01/2003,NULL,00:00.0
+189,187369436,adventure-works\janeth0,Production Technician - WC45,25/08/1966,F,16/02/2003,81,60,Production,Manufacturing,Evening,00:00.0,00:00.0,16/02/2003,NULL,00:00.0
+190,456839592,adventure-works\robert0,Production Technician - WC45,01/04/1979,M,06/03/2003,82,61,Production,Manufacturing,Evening,00:00.0,00:00.0,06/03/2003,NULL,00:00.0
+191,399658727,adventure-works\lionel0,Production Technician - WC45,15/04/1982,M,30/03/2003,78,59,Production,Manufacturing,Evening,00:00.0,00:00.0,30/03/2003,NULL,00:00.0
+192,634335025,adventure-works\brenda0,Production Supervisor - WC40,31/03/1977,F,06/04/2003,71,55,Production,Manufacturing,Day,00:00.0,00:00.0,06/04/2003,NULL,00:00.0
+193,761597760,adventure-works\alejandro0,Production Technician - WC40,06/01/1983,M,07/01/2003,52,46,Production,Manufacturing,Day,00:00.0,00:00.0,07/01/2003,NULL,00:00.0
+194,295971920,adventure-works\fred0,Production Technician - WC40,27/07/1983,M,13/01/2003,47,43,Production,Manufacturing,Day,00:00.0,00:00.0,13/01/2003,NULL,00:00.0
+195,918737118,adventure-works\kevin1,Production Technician - WC40,26/01/1980,M,18/01/2003,58,49,Production,Manufacturing,Day,00:00.0,00:00.0,18/01/2003,NULL,00:00.0
+196,370487086,adventure-works\shammi0,Production Technician - WC40,05/11/1974,M,25/01/2003,53,46,Production,Manufacturing,Day,00:00.0,00:00.0,25/01/2003,NULL,00:00.0
+197,632092621,adventure-works\rajesh0,Production Technician - WC40,05/11/1971,M,01/02/2003,48,44,Production,Manufacturing,Day,00:00.0,00:00.0,01/02/2003,NULL,00:00.0
+198,19312190,adventure-works\lorraine0,Production Technician - WC40,28/12/1982,F,05/02/2003,49,44,Production,Manufacturing,Day,00:00.0,00:00.0,05/02/2003,NULL,00:00.0
+199,992874797,adventure-works\paula1,Production Technician - WC40,13/03/1981,F,13/02/2003,54,47,Production,Manufacturing,Day,00:00.0,00:00.0,13/02/2003,NULL,00:00.0
+200,749211824,adventure-works\frank0,Production Technician - WC40,07/10/1981,M,18/02/2003,56,48,Production,Manufacturing,Day,00:00.0,00:00.0,18/02/2003,NULL,00:00.0
+201,746201340,adventure-works\brian0,Production Technician - WC40,14/03/1971,M,02/03/2003,55,47,Production,Manufacturing,Day,00:00.0,00:00.0,02/03/2003,NULL,00:00.0
+202,436757988,adventure-works\tawana0,Production Technician - WC40,12/12/1983,M,09/03/2003,50,45,Production,Manufacturing,Day,00:00.0,00:00.0,09/03/2003,NULL,00:00.0
+203,693168613,adventure-works\ken1,Production Technician - WC40,29/06/1975,M,28/03/2003,51,45,Production,Manufacturing,Day,00:00.0,00:00.0,28/03/2003,NULL,00:00.0
+204,440379437,adventure-works\gabe0,Production Technician - WC40,11/06/1982,M,09/04/2003,57,48,Production,Manufacturing,Day,00:00.0,00:00.0,09/04/2003,NULL,00:00.0
+205,332349500,adventure-works\lori0,Production Supervisor - WC45,19/08/1974,F,30/03/2003,76,58,Production,Manufacturing,Night,00:00.0,00:00.0,30/03/2003,NULL,00:00.0
+206,835460180,adventure-works\stuart0,Production Technician - WC45,14/10/1956,M,03/01/2003,84,62,Production,Manufacturing,Night,00:00.0,00:00.0,03/01/2003,NULL,00:00.0
+207,687685941,adventure-works\greg0,Production Technician - WC45,18/11/1964,M,03/01/2003,85,62,Production,Manufacturing,Night,00:00.0,00:00.0,03/01/2003,NULL,00:00.0
+208,199546871,adventure-works\scott0,Production Technician - WC45,13/03/1981,M,09/02/2003,86,63,Production,Manufacturing,Night,00:00.0,00:00.0,09/02/2003,NULL,00:00.0
+209,167554340,adventure-works\kathie0,Production Technician - WC45,02/12/1984,F,28/02/2003,87,63,Production,Manufacturing,Night,00:00.0,00:00.0,28/02/2003,NULL,00:00.0
+210,20244403,adventure-works\belinda0,Production Technician - WC45,19/10/1963,F,24/03/2003,83,61,Production,Manufacturing,Night,00:00.0,00:00.0,24/03/2003,NULL,00:00.0
+211,398223854,adventure-works\hazem0,Quality Assurance Manager,27/11/1971,M,01/04/2003,80,60,Quality Assurance,Quality Assurance,Day,00:00.0,00:00.0,01/04/2003,NULL,00:00.0
+212,885055826,adventure-works\peng0,Quality Assurance Supervisor,19/04/1970,M,10/01/2003,81,60,Quality Assurance,Quality Assurance,Day,00:00.0,00:00.0,10/01/2003,NULL,00:00.0
+213,343861179,adventure-works\sootha0,Quality Assurance Technician,05/01/1961,M,26/03/2004,85,62,Quality Assurance,Quality Assurance,Night,00:00.0,00:00.0,26/03/2004,NULL,00:00.0
+214,131471224,adventure-works\andreas0,Quality Assurance Technician,29/04/1983,M,06/03/2003,84,62,Quality Assurance,Quality Assurance,Evening,00:00.0,00:00.0,06/03/2003,NULL,00:00.0
+215,381772114,adventure-works\mark0,Quality Assurance Technician,31/05/1980,M,16/02/2003,83,61,Quality Assurance,Quality Assurance,Day,00:00.0,00:00.0,16/02/2003,NULL,00:00.0
+216,403414852,adventure-works\sean0,Quality Assurance Technician,07/04/1970,M,29/01/2003,82,61,Quality Assurance,Quality Assurance,Day,00:00.0,00:00.0,29/01/2003,NULL,00:00.0
+217,345106466,adventure-works\zainal0,Document Control Manager,02/03/1970,M,05/02/2003,77,58,Document Control,Quality Assurance,Day,00:00.0,00:00.0,05/02/2003,NULL,00:00.0
+218,540688287,adventure-works\tengiz0,Control Specialist,29/05/1984,M,17/01/2003,76,58,Document Control,Quality Assurance,Night,00:00.0,00:00.0,17/01/2003,NULL,00:00.0
+219,242381745,adventure-works\sean1,Document Control Assistant,12/04/1981,M,23/02/2003,78,59,Document Control,Quality Assurance,Day,00:00.0,00:00.0,23/02/2003,NULL,00:00.0
+220,260770918,adventure-works\karen0,Document Control Assistant,25/01/1970,F,13/03/2003,79,59,Document Control,Quality Assurance,Day,00:00.0,00:00.0,13/03/2003,NULL,00:00.0
+221,260805477,adventure-works\chris1,Control Specialist,26/06/1981,M,07/04/2003,75,57,Document Control,Quality Assurance,Evening,00:00.0,00:00.0,07/04/2003,NULL,00:00.0
+222,685233686,adventure-works\ascott0,Master Scheduler,19/10/1962,M,13/01/2003,44,42,Production Control,Manufacturing,Day,00:00.0,00:00.0,13/01/2003,NULL,00:00.0
+223,981495526,adventure-works\sairaj0,Scheduling Assistant,22/01/1982,M,27/02/2003,46,43,Production Control,Manufacturing,Day,00:00.0,00:00.0,27/02/2003,NULL,00:00.0
+224,621209647,adventure-works\william0,Scheduling Assistant,08/12/1975,M,08/02/2003,45,42,Production,Manufacturing,Day,00:00.0,00:00.0,08/02/2003,01/10/2005,00:00.0
+224,621209647,adventure-works\william0,Scheduling Assistant,08/12/1975,M,08/02/2003,45,42,Production Control,Manufacturing,Day,00:00.0,00:00.0,02/10/2005,NULL,00:00.0
+225,470689086,adventure-works\alan0,Scheduling Assistant,30/04/1978,M,17/03/2003,47,43,Production Control,Manufacturing,Evening,00:00.0,00:00.0,17/03/2003,NULL,00:00.0
+226,368691270,adventure-works\brian1,Scheduling Assistant,12/09/1978,M,04/04/2003,48,44,Production Control,Manufacturing,Night,00:00.0,00:00.0,04/04/2003,NULL,00:00.0
+227,141165819,adventure-works\gary1,Facilities Manager,21/03/1965,M,03/01/2004,86,63,Facilities and Maintenance,Executive General and Administration,Day,00:00.0,00:00.0,03/01/2004,NULL,00:00.0
+228,553069203,adventure-works\christian0,Maintenance Supervisor,18/02/1970,M,15/01/2003,92,66,Facilities and Maintenance,Executive General and Administration,Day,00:00.0,00:00.0,15/01/2003,NULL,00:00.0
+229,879334904,adventure-works\lori1,Janitor,31/08/1964,F,19/03/2004,90,65,Facilities and Maintenance,Executive General and Administration,Night,00:00.0,00:00.0,19/03/2004,NULL,00:00.0
+230,28414965,adventure-works\stuart1,Janitor,17/01/1966,M,05/04/2004,88,64,Facilities and Maintenance,Executive General and Administration,Evening,00:00.0,00:00.0,05/04/2004,NULL,00:00.0
+231,153479919,adventure-works\jo1,Janitor,25/05/1948,F,07/04/2004,91,65,Facilities and Maintenance,Executive General and Administration,Night,00:00.0,00:00.0,07/04/2004,NULL,00:00.0
+232,646304055,adventure-works\pat0,Janitor,03/01/1965,M,28/02/2004,89,64,Facilities and Maintenance,Executive General and Administration,Evening,00:00.0,00:00.0,28/02/2004,NULL,00:00.0
+233,552560652,adventure-works\magnus0,Facilities Administrative Assistant,27/09/1965,M,22/01/2004,87,63,Facilities and Maintenance,Executive General and Administration,Day,00:00.0,00:00.0,22/01/2004,NULL,00:00.0
+234,184188301,adventure-works\laura1,Chief Financial Officer,06/02/1970,F,04/03/2003,0,20,Finance,Executive General and Administration,Day,00:00.0,00:00.0,04/03/2003,15/12/2007,00:00.0
+234,184188301,adventure-works\laura1,Chief Financial Officer,06/02/1970,F,04/03/2003,0,20,Executive,Executive General and Administration,Day,00:00.0,00:00.0,16/12/2007,NULL,00:00.0
+235,535145551,adventure-works\paula0,Human Resources Manager,14/03/1970,F,07/01/2003,54,47,Human Resources,Executive General and Administration,Day,00:00.0,00:00.0,07/01/2003,NULL,00:00.0
+236,476980013,adventure-works\grant0,Human Resources Administrative Assistant,18/05/1970,M,29/03/2003,53,46,Human Resources,Executive General and Administration,Day,00:00.0,00:00.0,29/03/2003,NULL,00:00.0
+237,416679555,adventure-works\hao0,Human Resources Administrative Assistant,19/05/1971,M,10/03/2003,52,46,Human Resources,Executive General and Administration,Day,00:00.0,00:00.0,10/03/2003,NULL,00:00.0
+238,264306399,adventure-works\vidur0,Recruiter,02/09/1978,M,02/02/2003,50,45,Human Resources,Executive General and Administration,Day,00:00.0,00:00.0,02/02/2003,NULL,00:00.0
+239,619308550,adventure-works\mindy0,Benefits Specialist,22/12/1978,F,26/01/2003,51,45,Human Resources,Executive General and Administration,Day,00:00.0,00:00.0,26/01/2003,NULL,00:00.0
+240,332040978,adventure-works\willis0,Recruiter,18/08/1972,M,14/01/2003,49,44,Human Resources,Executive General and Administration,Day,00:00.0,00:00.0,14/01/2003,NULL,00:00.0
+241,30845,adventure-works\david6,Accounts Manager,08/08/1977,M,03/03/2003,57,48,Finance,Executive General and Administration,Day,00:00.0,00:00.0,03/03/2003,NULL,00:00.0
+242,363923697,adventure-works\deborah0,Accounts Receivable Specialist,07/04/1970,F,19/01/2003,60,50,Finance,Executive General and Administration,Day,00:00.0,00:00.0,19/01/2003,NULL,00:00.0
+243,60517918,adventure-works\candy0,Accounts Receivable Specialist,26/03/1970,F,07/02/2003,61,50,Finance,Executive General and Administration,Day,00:00.0,00:00.0,07/02/2003,NULL,00:00.0
+244,931190412,adventure-works\bryan1,Accounts Receivable Specialist,22/10/1978,M,25/02/2003,62,51,Finance,Executive General and Administration,Day,00:00.0,00:00.0,25/02/2003,NULL,00:00.0
+245,363910111,adventure-works\barbara1,Accountant,04/02/1970,F,22/03/2003,58,49,Finance,Executive General and Administration,Day,00:00.0,00:00.0,22/03/2003,NULL,00:00.0
+246,663843431,adventure-works\dragan0,Accounts Payable Specialist,18/03/1971,M,15/03/2003,63,51,Finance,Executive General and Administration,Day,00:00.0,00:00.0,15/03/2003,NULL,00:00.0
+247,519756660,adventure-works\janet0,Accounts Payable Specialist,09/04/1973,F,02/04/2003,64,52,Finance,Executive General and Administration,Day,00:00.0,00:00.0,02/04/2003,NULL,00:00.0
+248,480951955,adventure-works\mike0,Accountant,01/08/1973,M,09/04/2003,59,49,Finance,Executive General and Administration,Day,00:00.0,00:00.0,09/04/2003,NULL,00:00.0
+249,121491555,adventure-works\wendy0,Finance Manager,12/11/1978,F,26/01/2003,55,47,Finance,Executive General and Administration,Day,00:00.0,00:00.0,26/01/2003,NULL,00:00.0
+250,895209680,adventure-works\sheela0,Purchasing Manager,13/03/1972,F,28/03/2005,49,44,Marketing,Sales and Marketing,Day,00:00.0,00:00.0,28/03/2005,30/08/2005,00:00.0
+250,895209680,adventure-works\sheela0,Purchasing Manager,13/03/1972,F,28/03/2005,49,44,Quality Assurance,Quality Assurance,Day,00:00.0,00:00.0,31/08/2005,15/08/2006,00:00.0
+250,895209680,adventure-works\sheela0,Purchasing Manager,13/03/1972,F,28/03/2005,49,44,Purchasing,Inventory Management,Day,00:00.0,00:00.0,16/08/2006,NULL,00:00.0
+251,603686790,adventure-works\mikael0,Buyer,18/09/1978,M,14/03/2003,59,49,Purchasing,Inventory Management,Day,00:00.0,00:00.0,14/03/2003,NULL,00:00.0
+252,792847334,adventure-works\arvind0,Buyer,21/09/1968,M,01/04/2003,60,50,Purchasing,Inventory Management,Day,00:00.0,00:00.0,01/04/2003,NULL,00:00.0
+253,407505660,adventure-works\linda2,Buyer,31/12/1964,F,18/01/2004,56,48,Purchasing,Inventory Management,Day,00:00.0,00:00.0,18/01/2004,NULL,00:00.0
+254,482810518,adventure-works\fukiko0,Buyer,25/12/1964,M,05/02/2004,57,48,Purchasing,Inventory Management,Day,00:00.0,00:00.0,05/02/2004,NULL,00:00.0
+255,466142721,adventure-works\gordon0,Buyer,30/12/1960,M,12/02/2004,52,46,Purchasing,Inventory Management,Day,00:00.0,00:00.0,12/02/2004,NULL,00:00.0
+256,367453993,adventure-works\frank2,Buyer,13/06/1946,M,24/02/2004,58,49,Purchasing,Inventory Management,Day,00:00.0,00:00.0,24/02/2004,NULL,00:00.0
+257,381073001,adventure-works\eric2,Buyer,19/10/1966,M,28/02/2004,54,47,Purchasing,Inventory Management,Day,00:00.0,00:00.0,28/02/2004,NULL,00:00.0
+258,785853949,adventure-works\erin0,Buyer,04/02/1965,F,03/03/2004,53,46,Purchasing,Inventory Management,Day,00:00.0,00:00.0,03/03/2004,NULL,00:00.0
+259,20269531,adventure-works\ben0,Buyer,05/07/1967,M,09/04/2004,55,47,Purchasing,Inventory Management,Day,00:00.0,00:00.0,09/04/2004,NULL,00:00.0
+260,437296311,adventure-works\annette0,Purchasing Assistant,01/03/1972,F,06/01/2005,50,45,Purchasing,Inventory Management,Day,00:00.0,00:00.0,06/01/2005,NULL,00:00.0
+261,280633567,adventure-works\reinout0,Purchasing Assistant,18/02/1972,M,25/01/2005,51,45,Purchasing,Inventory Management,Day,00:00.0,00:00.0,25/01/2005,NULL,00:00.0
+262,231203233,adventure-works\david5,Assistant to the Chief Financial Officer,23/07/1958,M,13/02/2003,56,48,Finance,Executive General and Administration,Day,00:00.0,00:00.0,13/02/2003,NULL,00:00.0
+263,441044382,adventure-works\jean0,Information Services Manager,13/01/1970,F,12/01/2003,65,52,Information Services,Executive General and Administration,Day,00:00.0,00:00.0,12/01/2003,NULL,00:00.0
+264,858323870,adventure-works\stephanie0,Network Manager,26/04/1978,F,08/03/2003,68,54,Information Services,Executive General and Administration,Day,00:00.0,00:00.0,08/03/2003,NULL,00:00.0
+265,749389530,adventure-works\ashvini0,Network Administrator,28/04/1971,M,05/01/2003,70,55,Information Services,Executive General and Administration,Evening,00:00.0,00:00.0,05/01/2003,NULL,00:00.0
+266,672243793,adventure-works\peter1,Network Administrator,29/06/1974,M,27/03/2003,69,54,Information Services,Executive General and Administration,Day,00:00.0,00:00.0,27/03/2003,NULL,00:00.0
+267,58317344,adventure-works\karen1,Application Specialist,19/06/1972,F,20/03/2003,74,57,Information Services,Executive General and Administration,Day,00:00.0,00:00.0,20/03/2003,NULL,00:00.0
+268,314747499,adventure-works\ramesh0,Application Specialist,14/04/1982,M,07/03/2003,73,56,Information Services,Executive General and Administration,Day,00:00.0,00:00.0,07/03/2003,NULL,00:00.0
+269,671089628,adventure-works\dan0,Application Specialist,28/07/1975,M,12/02/2003,72,56,Information Services,Executive General and Administration,Day,00:00.0,00:00.0,12/02/2003,NULL,00:00.0
+270,643805155,adventure-works\françois0,Database Administrator,17/06/1969,M,18/02/2003,67,53,Information Services,Executive General and Administration,Day,00:00.0,00:00.0,18/02/2003,NULL,00:00.0
+271,929666391,adventure-works\dan1,Database Administrator,06/02/1970,M,23/02/2003,66,53,Information Services,Executive General and Administration,Day,00:00.0,00:00.0,23/02/2003,NULL,00:00.0
+272,525932996,adventure-works\janaina0,Application Specialist,03/03/1979,F,24/01/2003,71,55,Information Services,Executive General and Administration,Day,00:00.0,00:00.0,24/01/2003,NULL,00:00.0
+273,112432117,adventure-works\brian3,Vice President of Sales,08/07/1971,M,18/03/2005,10,25,Sales,Sales and Marketing,Day,00:00.0,00:00.0,18/03/2005,NULL,00:00.0
+274,502097814,adventure-works\stephen0,North American Sales Manager,17/11/1945,M,04/02/2005,14,27,Sales,Sales and Marketing,Day,00:00.0,00:00.0,04/02/2005,NULL,00:00.0
+275,841560125,adventure-works\michael9,Sales Representative,26/01/1963,M,01/07/2005,38,39,Sales,Sales and Marketing,Day,00:00.0,00:00.0,01/07/2005,NULL,00:00.0
+276,191644724,adventure-works\linda3,Sales Representative,30/03/1974,F,01/07/2005,27,33,Sales,Sales and Marketing,Day,00:00.0,00:00.0,01/07/2005,NULL,00:00.0
+277,615389812,adventure-works\jillian0,Sales Representative,29/09/1956,F,01/07/2005,24,32,Sales,Sales and Marketing,Day,00:00.0,00:00.0,01/07/2005,NULL,00:00.0
+278,234474252,adventure-works\garrett1,Sales Representative,07/03/1969,M,01/07/2005,33,36,Sales,Sales and Marketing,Day,00:00.0,00:00.0,01/07/2005,NULL,00:00.0
+279,716374314,adventure-works\tsvi0,Sales Representative,19/02/1968,M,01/07/2005,29,34,Sales,Sales and Marketing,Day,00:00.0,00:00.0,01/07/2005,NULL,00:00.0
+280,61161660,adventure-works\pamela0,Sales Representative,06/01/1969,F,01/07/2005,22,31,Sales,Sales and Marketing,Day,00:00.0,00:00.0,01/07/2005,NULL,00:00.0
+281,139397894,adventure-works\shu0,Sales Representative,10/04/1962,M,01/07/2005,26,33,Sales,Sales and Marketing,Day,00:00.0,00:00.0,01/07/2005,NULL,00:00.0
+282,399771412,adventure-works\josé1,Sales Representative,11/01/1958,M,01/07/2005,31,35,Sales,Sales and Marketing,Day,00:00.0,00:00.0,01/07/2005,NULL,00:00.0
+283,987554265,adventure-works\david8,Sales Representative,14/03/1968,M,01/07/2005,23,31,Sales,Sales and Marketing,Day,00:00.0,00:00.0,01/07/2005,NULL,00:00.0
+284,90836195,adventure-works\tete0,Sales Representative,06/02/1972,M,01/11/2006,39,39,Sales,Sales and Marketing,Day,00:00.0,00:00.0,01/11/2006,NULL,00:00.0
+285,481044938,adventure-works\syed0,Pacific Sales Manager,11/02/1969,M,15/04/2007,20,30,Sales,Sales and Marketing,Day,00:00.0,00:00.0,15/04/2007,NULL,00:00.0
+286,758596752,adventure-works\lynn0,Sales Representative,18/04/1965,F,01/07/2007,36,38,Sales,Sales and Marketing,Day,00:00.0,00:00.0,01/07/2007,NULL,00:00.0
+287,982310417,adventure-works\amy0,European Sales Manager,22/10/1951,F,18/05/2006,21,30,Sales,Sales and Marketing,Day,00:00.0,00:00.0,18/05/2006,NULL,00:00.0
+288,954276278,adventure-works\rachel0,Sales Representative,09/08/1969,F,01/07/2007,35,37,Sales,Sales and Marketing,Day,00:00.0,00:00.0,01/07/2007,NULL,00:00.0
+289,668991357,adventure-works\jae0,Sales Representative,18/04/1962,F,01/07/2006,37,38,Sales,Sales and Marketing,Day,00:00.0,00:00.0,01/07/2006,NULL,00:00.0
+290,134219713,adventure-works\ranjit0,Sales Representative,31/10/1969,M,01/07/2006,34,37,Sales,Sales and Marketing,Day,00:00.0,00:00.0,01/07/2006,NULL,00:00.0
