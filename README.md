@@ -23,4 +23,5 @@ Each folder contains SQL scripts corresponding to its layer.
 👤 Author
 Hassan Mehmood
 🔗 GitHub: https://github.com/hassanmehmood1x1x1
+
 🔗 LinkedIn: https://www.linkedin.com/in/hassan-mehmood-30b37b1b2/
