@@ -1,7 +1,3 @@
-
-## Author
-**Hassan Mehmood**
-
 # HR Data Warehouse Project
 
 This project is a **Data Warehouse for HR data**, containing multiple layers of ETL processing:
@@ -22,3 +18,9 @@ Each folder contains SQL scripts corresponding to its layer.
 
 - Teradata SQL (DDL & DML)
 - Git & GitHub for version control
+
+  
+👤 Author
+Hassan Mehmood
+🔗 GitHub: https://github.com/hassanmehmood1x1x1
+🔗 LinkedIn: https://www.linkedin.com/in/hassan-mehmood-30b37b1b2/
